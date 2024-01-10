@@ -1,0 +1,31 @@
+D:\Final_Project_PC\Final_Project_PC\bin\Debug\Final_Project_PC.exe.config
+D:\Final_Project_PC\Final_Project_PC\bin\Debug\Final_Project_PC.exe
+D:\Final_Project_PC\Final_Project_PC\bin\Debug\Final_Project_PC.pdb
+D:\Final_Project_PC\Final_Project_PC\obj\Debug\Final_Project_PC.csproj.AssemblyReference.cache
+D:\Final_Project_PC\Final_Project_PC\obj\Debug\Final_Project_PC.csproj.SuggestedBindingRedirects.cache
+D:\Final_Project_PC\Final_Project_PC\obj\Debug\Final_Project_PC.Form1.resources
+D:\Final_Project_PC\Final_Project_PC\obj\Debug\Final_Project_PC.Properties.Resources.resources
+D:\Final_Project_PC\Final_Project_PC\obj\Debug\Final_Project_PC.csproj.GenerateResource.cache
+D:\Final_Project_PC\Final_Project_PC\obj\Debug\Final_Project_PC.csproj.CoreCompileInputs.cache
+D:\Final_Project_PC\Final_Project_PC\obj\Debug\Final_Project_PC.exe
+D:\Final_Project_PC\Final_Project_PC\obj\Debug\Final_Project_PC.pdb
+C:\Users\s9707\Downloads\新增資料夾 (2)\Final_Project_PC\Final_Project_PC\bin\Debug\Final_Project_PC.exe.config
+C:\Users\s9707\Downloads\新增資料夾 (2)\Final_Project_PC\Final_Project_PC\bin\Debug\Final_Project_PC.exe
+C:\Users\s9707\Downloads\新增資料夾 (2)\Final_Project_PC\Final_Project_PC\bin\Debug\Final_Project_PC.pdb
+C:\Users\s9707\Downloads\新增資料夾 (2)\Final_Project_PC\Final_Project_PC\obj\Debug\Final_Project_PC.csproj.AssemblyReference.cache
+C:\Users\s9707\Downloads\新增資料夾 (2)\Final_Project_PC\Final_Project_PC\obj\Debug\Final_Project_PC.Form1.resources
+C:\Users\s9707\Downloads\新增資料夾 (2)\Final_Project_PC\Final_Project_PC\obj\Debug\Final_Project_PC.Properties.Resources.resources
+C:\Users\s9707\Downloads\新增資料夾 (2)\Final_Project_PC\Final_Project_PC\obj\Debug\Final_Project_PC.csproj.GenerateResource.cache
+C:\Users\s9707\Downloads\新增資料夾 (2)\Final_Project_PC\Final_Project_PC\obj\Debug\Final_Project_PC.csproj.CoreCompileInputs.cache
+C:\Users\s9707\Downloads\新增資料夾 (2)\Final_Project_PC\Final_Project_PC\obj\Debug\Final_Project_PC.exe
+C:\Users\s9707\Downloads\新增資料夾 (2)\Final_Project_PC\Final_Project_PC\obj\Debug\Final_Project_PC.pdb
+C:\Users\s9707\Downloads\fpga\Final_Project_PC\Final_Project_PC\bin\Debug\Final_Project_PC.exe.config
+C:\Users\s9707\Downloads\fpga\Final_Project_PC\Final_Project_PC\bin\Debug\Final_Project_PC.exe
+C:\Users\s9707\Downloads\fpga\Final_Project_PC\Final_Project_PC\bin\Debug\Final_Project_PC.pdb
+C:\Users\s9707\Downloads\fpga\Final_Project_PC\Final_Project_PC\obj\Debug\Final_Project_PC.csproj.AssemblyReference.cache
+C:\Users\s9707\Downloads\fpga\Final_Project_PC\Final_Project_PC\obj\Debug\Final_Project_PC.Form1.resources
+C:\Users\s9707\Downloads\fpga\Final_Project_PC\Final_Project_PC\obj\Debug\Final_Project_PC.Properties.Resources.resources
+C:\Users\s9707\Downloads\fpga\Final_Project_PC\Final_Project_PC\obj\Debug\Final_Project_PC.csproj.GenerateResource.cache
+C:\Users\s9707\Downloads\fpga\Final_Project_PC\Final_Project_PC\obj\Debug\Final_Project_PC.csproj.CoreCompileInputs.cache
+C:\Users\s9707\Downloads\fpga\Final_Project_PC\Final_Project_PC\obj\Debug\Final_Project_PC.exe
+C:\Users\s9707\Downloads\fpga\Final_Project_PC\Final_Project_PC\obj\Debug\Final_Project_PC.pdb

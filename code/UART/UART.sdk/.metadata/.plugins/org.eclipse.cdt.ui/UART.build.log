@@ -1,0 +1,55 @@
+23:49:13 **** Auto Build of configuration Debug for project UART ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../UART_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'Uart_SendData':
+../src/helloworld.c:256:2: warning: implicit declaration of function 'MapToArray'; did you mean 'map_arry'? [-Wimplicit-function-declaration]
+  MapToArray(TransmitBuffer, map, buttonEvent);
+  ^~~~~~~~~~
+  map_arry
+../src/helloworld.c: At top level:
+../src/helloworld.c:268:6: warning: conflicting types for 'MapToArray'
+ void MapToArray(u8 *byteArray, int Map_data[map_weight], int Game_State){
+      ^~~~~~~~~~
+../src/helloworld.c:256:2: note: previous implicit declaration of 'MapToArray' was here
+  MapToArray(TransmitBuffer, map, buttonEvent);
+  ^~~~~~~~~~
+../src/helloworld.c: In function 'MapToArray':
+../src/helloworld.c:271:5: warning: unused variable 'asicii_zero' [-Wunused-variable]
+  u8 asicii_zero  = '0';             //數值方便偵錯時，用的ASICII轉換
+     ^~~~~~~~~~~
+../src/helloworld.c: In function 'Intr_Handler':
+../src/helloworld.c:408:5: warning: "/*" within comment [-Wcomment]
+     /*if(Sokoban_Game_State == 0){
+      
+../src/helloworld.c:423:9: warning: "/*" within comment [-Wcomment]
+         /*
+          
+../src/helloworld.c:439:9: warning: "/*" within comment [-Wcomment]
+         /*
+          
+../src/helloworld.c:455:9: warning: "/*" within comment [-Wcomment]
+         /*
+          
+../src/helloworld.c:471:5: warning: "/*" within comment [-Wcomment]
+     /*if(Sokoban_Game_State == 0){
+      
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: UART.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../UART_bsp/ps7_cortexa9_0/lib -o "UART.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: UART.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size UART.elf  |tee "UART.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  33208	   1968	  22792	  57968	   e270	UART.elf
+'Finished building: UART.elf.size'
+' '
+
+23:49:16 Build Finished (took 3s.155ms)
+
